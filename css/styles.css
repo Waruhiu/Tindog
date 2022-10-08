@@ -1,0 +1,177 @@
+/*I didn't neccecarily arrange the style sheets
+according to how the elements appear on the HTML code.
+Maybe i'll get to it later*/ 
+ body{
+  font-family: 'Cantarell', sans-serif;
+  background-color:#40514E;
+  margin: 0;
+  text-align: center;
+}
+p{
+  margin: auto;
+}
+hr{
+  background-color:#EEEEEE;
+  border-style: dotted none none;
+  border-width:7px;
+  color:gray;
+  width:10%;
+  border-radius:4;
+  margin:40px auto;
+
+}
+
+h1{
+  font-family: 'Courgette', cursive,sans-serif;
+  font-size: 5.625rem;
+  color:#11999E;
+  margin: auto;
+
+}
+
+a{
+  color: #25316D;
+  font-family: 'Cantarell', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EEEEEE;
+}
+
+  h2{
+    padding-bottom: 10px;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color:#25316D;
+    margin:0;
+  }
+  h3{
+    color:#11999E;
+  }
+  #contact{
+    color:#11999E;
+  }
+  .skill-row{
+    width: 50%;
+    margin:10px auto 50px auto;
+    text-align: left;
+    line-height:2;
+    background-color: #EEEEEE;
+    }
+    .profile{
+      background-color: #EEEEEE;
+    }
+
+div {
+  background-color: #7FBCD2;
+  border-radius: 0;
+  margin: 0;
+  position: relative;
+
+}
+
+.skills{
+  margin: 0;
+  background-color: #EEEEEE;
+}
+.skill-image{
+  width:170px;
+  height:170px;
+border-radius:170px;
+  float:left;
+  margin: auto 30px auto auto;
+  padding: auto;
+  position:relative;
+
+
+}
+
+.avatar{
+  width:300px;
+  height:300px;
+  margin: 0;
+  border-radius: 0;
+  position: relative;
+  bottom: -10px;
+}
+
+.right-floaters {
+  float:right;
+  margin-left:30px;
+}
+
+
+
+.car{
+  position: relative;
+  left: 200px;
+  width:150px;
+  height:52px;
+}
+.rocket{
+position: relative;
+bottom: 40px;
+left: 60px;
+width:150px;
+
+}
+.btn {
+  background: #34d9b0;
+  background-image: -webkit-linear-gradient(top, #34d9b0, #16942f);
+  background-image: -moz-linear-gradient(top, #34d9b0, #16942f);
+  background-image: -ms-linear-gradient(top, #34d9b0, #16942f);
+  background-image: -o-linear-gradient(top, #34d9b0, #16942f);
+  background-image: linear-gradient(to bottom, #34d9b0, #16942f);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Cantarell', sans-serif;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 13px 20px 15px 20px;
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+.btn:hover {
+  background: #aaf508;
+  background-image: -webkit-linear-gradient(top, #aaf508, #4d6e10);
+  background-image: -moz-linear-gradient(top, #aaf508, #4d6e10);
+  background-image: -ms-linear-gradient(top, #aaf508, #4d6e10);
+  background-image: -o-linear-gradient(top, #aaf508, #4d6e10);
+  background-image: linear-gradient(to bottom, #aaf508, #4d6e10);
+  text-decoration: none;
+}
+
+.top-container{
+  background-color: #66BFBF;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 0;
+}
+.middle-container{
+  padding: 0;
+  background-color: #EEEEEE;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  color: white;
+  margin:auto;
+  padding-top: 10px;
+  line-height: 2;
+
+}
+.contact-me{
+  background-color: #ADDDD0;
+}
+footer{
+  padding: 10px auto 10px auto;
+  background-color: #ADDDD0;
+}
+.copyright{
+  size:0.5rem;
+  padding: 10px auto 20px auto;
+  color: white;
+}

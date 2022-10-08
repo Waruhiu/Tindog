@@ -1,0 +1,175 @@
+#title{
+  text-align: left;
+
+
+}
+
+.colored-section{
+background-color: #ff4c68;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 5px;
+}
+
+.navigation{
+  margin-left: 16rem;
+}
+
+  body{
+    text-align: center;
+  }
+  /*Headings*/
+  .big-heading
+  {
+    font-size: 2.5rem;
+    font-weight: 900;
+    line-height: 1.5;
+    color: white;
+    padding: 50px;
+    color: white;
+
+  }
+
+h1, h2, h3, h4, h5, h6{
+font-family: 'Montserrat', sans-serif;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+  position: static;
+}
+
+#white {
+  color: white;
+  border-color: white;
+  background-color:#ff4c68;
+}
+#white:hover{
+  background-color: grey;
+}
+#doggo{
+  transform: rotate(20deg);
+  width: 300px;
+  height:605.25px;
+  margin:auto auto -12rem 50px;
+  z-index:-1
+  position:absolute;
+}
+
+/*Features*/
+
+#features{
+padding:3%;
+background-color: white;
+z-index: 1;
+position:relative;
+}
+
+h2{
+  width:70%;
+  line-height: 3rem;
+}
+
+h3{
+  font-weight: bold 900px;
+  line-height: 1.5rem;
+  padding: 2px
+}
+
+p{
+  color: #8f8f8f;
+}
+
+col-lg-4{
+  margin:5px 10px;
+}
+
+.maneno{
+  padding: 4%;
+}
+
+.icon{
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.icon:hover{
+  color:#ff4c68;
+}
+
+/*Testimonials*/
+
+#testimonials{
+background-color:#ef8172;
+color: white;
+padding: 3% 15%;
+}
+
+.testimonials-woof{
+border-radius:100%;
+width:15%;
+}
+
+.describe{
+  position: relative;
+  left:15%
+}
+
+/*Press*/
+
+#press{
+  background-color:#ef8172;
+  }
+
+.press-images{
+  width:12%;
+  padding: 1px 20px;
+  margin-bottom: 2%;
+}
+
+.card{
+  margin: 10px;
+  border: 2px solid;
+}
+
+.button{
+margin-right:5px;
+}
+
+.card-button{
+margin-left: 5px;
+}
+
+/*Pricing*/
+#pricing{
+  padding: 100px;
+  }
+.pricing-clmn{
+  padding: 3%;
+  }
+
+#dg-nds{
+  position: relative;
+  left: 15%;
+  padding: 2px 5%;
+}
+
+/*call to action*/
+
+.downld-button{
+  margin: 20px 10px;
+}
+
+/*Footer*/
+
+#footer{
+  margin-top: 10% ;
+  margin-bottom: 10% ;
+}
+@media screen (min:width 600px){
+
+}
